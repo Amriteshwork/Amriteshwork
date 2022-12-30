@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amriteshwork
+- 👋 Hi, I’m @Amritesh
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Machine Learning and Deep Learning Projects
